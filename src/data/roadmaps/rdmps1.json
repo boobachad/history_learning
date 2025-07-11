@@ -1,0 +1,157 @@
+{
+    "name": "Full Stack Development",
+    "description": "A comprehensive roadmap covering web development, AI, and backend development.",
+    "category": "Software Development",
+    "topics": [
+        {
+            "id": "topic-1",
+            "name": "Web Development",
+            "description": "Frontend and backend web development fundamentals",
+            "tags": [
+                "web",
+                "frontend",
+                "backend",
+                "fullstack",
+                "api",
+                "javascript"
+            ],
+            "subtopics": [
+                {
+                    "id": "subtopic-1-1",
+                    "name": "Frontend Development",
+                    "description": "HTML, CSS, and JavaScript fundamentals",
+                    "tags": [
+                        "web",
+                        "frontend",
+                        "html",
+                        "css",
+                        "javascript"
+                    ]
+                },
+                {
+                    "id": "subtopic-1-2",
+                    "name": "Backend Development",
+                    "description": "Server-side programming and APIs",
+                    "tags": [
+                        "backend",
+                        "api",
+                        "server",
+                        "node.js",
+                        "express"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "topic-2",
+            "name": "Artificial Intelligence",
+            "description": "AI and machine learning fundamentals",
+            "tags": [
+                "ai",
+                "ml",
+                "deep learning",
+                "artificial intelligence",
+                "machine learning",
+                "neural networks"
+            ],
+            "subtopics": [
+                {
+                    "id": "subtopic-2-1",
+                    "name": "Machine Learning Basics",
+                    "description": "Introduction to ML concepts and algorithms",
+                    "tags": [
+                        "ml",
+                        "machine learning",
+                        "algorithms",
+                        "data science"
+                    ]
+                },
+                {
+                    "id": "subtopic-2-2",
+                    "name": "Deep Learning",
+                    "description": "Neural networks and deep learning frameworks",
+                    "tags": [
+                        "deep learning",
+                        "neural networks",
+                        "tensorflow",
+                        "pytorch"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "topic-3",
+            "name": "Node.js Development",
+            "description": "Building applications with Node.js",
+            "tags": [
+                "node.js",
+                "javascript",
+                "backend",
+                "express",
+                "api"
+            ],
+            "subtopics": [
+                {
+                    "id": "subtopic-3-1",
+                    "name": "Node.js Fundamentals",
+                    "description": "Core Node.js concepts and runtime",
+                    "tags": [
+                        "node.js",
+                        "javascript",
+                        "runtime",
+                        "modules"
+                    ]
+                },
+                {
+                    "id": "subtopic-3-2",
+                    "name": "Express Framework",
+                    "description": "Building web applications with Express",
+                    "tags": [
+                        "express",
+                        "web",
+                        "api",
+                        "middleware"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "topic-4",
+            "name": "Database Integration",
+            "description": "Working with databases in applications",
+            "tags": [
+                "database",
+                "mongodb",
+                "sql",
+                "nosql",
+                "data"
+            ],
+            "subtopics": [
+                {
+                    "id": "subtopic-4-1",
+                    "name": "MongoDB",
+                    "description": "Using MongoDB for data storage",
+                    "tags": [
+                        "mongodb",
+                        "nosql",
+                        "database",
+                        "mongoose"
+                    ]
+                },
+                {
+                    "id": "subtopic-4-2",
+                    "name": "SQL Databases",
+                    "description": "Working with SQL databases",
+                    "tags": [
+                        "sql",
+                        "database",
+                        "postgresql",
+                        "mysql"
+                    ]
+                }
+            ]
+        }
+    ],
+    "createdAt": "2025-06-12T22:10:00.000Z",
+    "updatedAt": "2025-06-12T22:10:00.000Z"
+}
